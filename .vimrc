@@ -47,6 +47,7 @@ Plug 'jiangmiao/auto-pairs'
 
 Plug 'fatih/vim-go'	
 
+Plug 'wakatime/vim-wakatime'
 call plug#end()
 
 map <C-n> :NERDTreeToggle<CR>
